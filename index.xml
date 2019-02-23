@@ -6,10 +6,20 @@
     <description>Recent content on Tech 4 N00bs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Nov 2018 11:22:03 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 09:11:40 -0800</lastBuildDate>
     
 	<atom:link href="https://judithpatudith.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GitHub: 10 tips for good pull requests</title>
+      <link>https://judithpatudith.github.io/posts/github-pr-tips/</link>
+      <pubDate>Sun, 17 Feb 2019 09:11:40 -0800</pubDate>
+      
+      <guid>https://judithpatudith.github.io/posts/github-pr-tips/</guid>
+      <description>A pull request is a GitHub-specific concept that allows reviewers to compare changes you request with the current versions of the files you&amp;rsquo;re changing. For background on the process of changing files with Git see the introductions.
+What&amp;rsquo;s the point of a Pull Request? A Pull Request (PR) is a collection of commits that you ask to copy from one branch of a project to another, plus metadata that GitHub provides to help you and your reviewer talk about the changes in those commits.</description>
+    </item>
     
     <item>
       <title>Git for Skeptics: Part 2 - Why is saving changes so freaking complicated?</title>
