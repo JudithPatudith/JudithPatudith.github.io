@@ -6,10 +6,20 @@
     <description>Recent content on Tech 4 N00bs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Feb 2019 09:11:40 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 21:08:45 -0800</lastBuildDate>
     
 	<atom:link href="https://judithpatudith.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HashiCorp</title>
+      <link>https://judithpatudith.github.io/about/hashicorp/</link>
+      <pubDate>Fri, 22 Feb 2019 21:08:45 -0800</pubDate>
+      
+      <guid>https://judithpatudith.github.io/about/hashicorp/</guid>
+      <description>Product Education Engineer (2019 - present)
+I just stared a new job at HashiCorp working on Consul education. Let me get back to you about specific responsibilities once I get settled in. Stay tuned!</description>
+    </item>
     
     <item>
       <title>GitHub: 10 Tips for Good Pull Requests</title>
@@ -37,8 +47,8 @@ In this post, I’ll explain why saving a change with Git is so complicated. Eac
       <pubDate>Sun, 01 Jul 2018 11:22:03 -0800</pubDate>
       
       <guid>https://judithpatudith.github.io/about/kong/</guid>
-      <description>Developer Marketing Manager (2018 - Present)
- Ghost-wrote abstracts and talk submissions for executives and developers. Wrote and edited technical marketing materials. Vetted abstracts, coordinated speakers, and M.C.d for our first user conference. Started, gathered content, and ran monthly community calls. Set the vision for a new Kong ambassadors program. Designed a New Relic Insights dashboard to monitor community contributions and growth.  </description>
+      <description>Developer Marketing Manager (2018 - 2019)
+ Ghost-wrote abstracts and talk submissions for executives and developers. Designed and wrote copy for the Kong Community Page. Wrote and edited technical marketing materials. Vetted abstracts, coordinated speakers, and M.C.d for our first user conference. Started, gathered content, and ran monthly community calls. Set the vision for a new Kong ambassadors program. Designed a New Relic Insights dashboard to monitor community contributions and growth.</description>
     </item>
     
     <item>
